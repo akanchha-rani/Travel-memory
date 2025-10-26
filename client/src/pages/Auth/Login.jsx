@@ -70,18 +70,17 @@ const Login = () => {
   }, [currentUser])
 
   return (
-    <div className="h-screen bg-cyan-50 overflow-hidden relative">
-      <div className="login-ui-box right-10 -top-40" />
+    <div className="h-screen bg-radial-[at_50%_75%] from-sky-200 via-amber-100 to-sky-300 to-90% overflow-hidden relative">
 
       <div className="container h-screen flex items-center justify-center px-20 mx-auto">
-        <div className="w-2/4 h-[90vh] flex items-end bg-[url('https://images.pexels.com/photos/731217/pexels-photo-731217.jpeg?auto=compress&cs=tinysrgb&w=600')] bg-cover bg-center rounded-lg p-10 z-50">
+        <div className="w-2/4 h-[90vh] flex items-end bg-[url('/images/login.png')] bg-cover bg-center rounded-lg p-10 z-50">
           <div>
-            <h4 className="text-5xl text-white font-semibold leading-[58px]">
-              Create Your <br /> Travel Stories
+            <h4 className="text-5xl text-cyan-800 font-semibold leading-[58px]">
+            Travel Capture  <br /> Remember
             </h4>
 
-            <p className="text-[15px] text-white leading-6 pr-7 mt-4">
-              Record your travel experiences and memories in your travel journey
+            <p className="text-[15px] text-cyan-800 leading-6 pr-7 mt-4">
+              Capture your adventures, relive your memories, and share the story of every journey.
             </p>
           </div>
         </div>
