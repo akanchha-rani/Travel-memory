@@ -208,7 +208,7 @@ const Home = () => {
           </div>
 
           <div className="w-[320px]">
-            <div className="bg-white border border-slate-200 shadow-lg shadow-slate-200/60 rounded-lg">
+            <div className="bg-sky-50 border border-slate-200 shadow-lg shadow-slate-200/60 rounded-lg">
               <div className="p-3">
                 <DayPicker
                   captionLayout="dropdown"
@@ -234,7 +234,7 @@ const Home = () => {
           },
         }}
         appElement={document.getElementById("root")}
-        className="w-[80vw] md:w-[40%] h-[80vh] bg-white rounded-lg mx-auto mt-14 p-5 overflow-y-scroll scrollbar z-50"
+        className="w-[80vw] md:w-[40%] h-[80vh] bg-sky-100 rounded-lg mx-auto mt-14 p-5 overflow-y-scroll scrollbar z-50"
       >
         <AddEditTravelStory
           storyInfo={openAddEditModal.data}
@@ -256,7 +256,7 @@ const Home = () => {
           },
         }}
         appElement={document.getElementById("root")}
-        className="w-[80vw] md:w-[40%] h-[80vh] bg-white rounded-lg mx-auto mt-14 p-5 overflow-y-scroll scrollbar z-50"
+        className="w-[80vw] md:w-[40%] h-[80vh] bg-sky-50 rounded-lg mx-auto mt-14 p-5 overflow-y-scroll scrollbar z-50"
       >
         <ViewTravelStory
           storyInfo={openViewModal.data || null}

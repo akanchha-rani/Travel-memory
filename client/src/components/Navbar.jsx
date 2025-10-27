@@ -41,11 +41,11 @@ const Navbar = ({
   };
 
   return (
-    <div className="bg-white flex items-center justify-between px-10 py-2 drop-shadow sticky top-0 z-10">
+    <div className="bg-amber-50 flex items-center justify-between px-10 py-2 drop-shadow sticky top-0 z-10">
       <Link to={"/"}>
         <h1 className="font-bold text-2xl sm:text-2xl flex flex-wrap">
           <span className="text-blue-400">Travel</span>
-          <span className="text-blue-800">Diary</span>
+          <span className="text-blue-800">Memory</span>
         </h1>
       </Link>
 
