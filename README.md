@@ -5,6 +5,7 @@ It allows users to record, manage, and revisit their travel experiences by creat
 
 This project demonstrates real-world **full-stack development**, including authentication, RESTful APIs, database design, and responsive UI development.
 
+
 ## ✨ Key Highlights
 
 - 📸 Create beautiful travel memories with images
@@ -13,6 +14,7 @@ This project demonstrates real-world **full-stack development**, including authe
 - 📝 Full CRUD functionality for travel memories
 - 📱 Responsive and user-friendly UI
 - 🌐 REST API-based backend architecture
+
 
 ## 🧠 Application Features
 
@@ -41,6 +43,7 @@ This project demonstrates real-world **full-stack development**, including authe
 - Works smoothly across desktop, tablet, and mobile devices
 - Clean and minimal design for better user experience
 
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -61,41 +64,62 @@ This project demonstrates real-world **full-stack development**, including authe
 - JSON Web Tokens (JWT)
 - Environment variables for sensitive data
 
+
 ## 🗂️ Project Structure
 
 Travel-memory/
+
 │
+
 ├── client/ # Frontend (React)
+
 │ ├── src/
+
 │ │ ├── components/
+
 │ │ ├── pages/
+
 │ │ ├── services/
+
 │ │ └── App.js
+
 │ └── package.json
+
 │
+
 ├── server/ # Backend (Node + Express)
+
 │ ├── models/
+
 │ ├── routes/
+
 │ ├── controllers/
+
 │ ├── middleware/
+
 │ ├── config/
+
 │ └── index.js
+
 │
+
 ├── .gitignore
+
 └── README.md
 
-🎯 Learning Outcomes
 
-This project helped in gaining hands-on experience with:
+## 🎯 Learning Outcomes
 
-Full-stack MERN development
+- This project helped in gaining hands-on experience with:
 
-REST API design
+- Full-stack MERN development
 
-MongoDB schema modeling
+- REST API design
 
-Authentication & authorization
+- MongoDB schema modeling
 
-Frontend-backend integration
+- Authentication & authorization
 
-Project structuring & best practices
+- Frontend-backend integration
+
+- Project structuring & best practices
