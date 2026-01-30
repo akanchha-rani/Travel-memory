@@ -83,3 +83,19 @@ Travel-memory/
 │
 ├── .gitignore
 └── README.md
+
+🎯 Learning Outcomes
+
+This project helped in gaining hands-on experience with:
+
+Full-stack MERN development
+
+REST API design
+
+MongoDB schema modeling
+
+Authentication & authorization
+
+Frontend-backend integration
+
+Project structuring & best practices
