@@ -56,3 +56,7 @@ This project demonstrates real-world **full-stack development**, including authe
 ### Database
 - **MongoDB**
 - Mongoose ODM
+
+### Authentication & Security
+- JSON Web Tokens (JWT)
+- Environment variables for sensitive data
