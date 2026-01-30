@@ -32,3 +32,7 @@ This project demonstrates real-world **full-stack development**, including authe
 - Edit existing memories
 - Delete memories
 - View all saved memories in a clean UI
+
+### 🖼️ Image Handling
+- Upload and display travel images
+- Associate images with specific memories
