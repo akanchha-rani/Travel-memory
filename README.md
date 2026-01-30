@@ -60,3 +60,26 @@ This project demonstrates real-world **full-stack development**, including authe
 ### Authentication & Security
 - JSON Web Tokens (JWT)
 - Environment variables for sensitive data
+
+## 🗂️ Project Structure
+
+Travel-memory/
+│
+├── client/ # Frontend (React)
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── services/
+│ │ └── App.js
+│ └── package.json
+│
+├── server/ # Backend (Node + Express)
+│ ├── models/
+│ ├── routes/
+│ ├── controllers/
+│ ├── middleware/
+│ ├── config/
+│ └── index.js
+│
+├── .gitignore
+└── README.md
