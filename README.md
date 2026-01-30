@@ -13,3 +13,11 @@ This project demonstrates real-world **full-stack development**, including authe
 - 📝 Full CRUD functionality for travel memories
 - 📱 Responsive and user-friendly UI
 - 🌐 REST API-based backend architecture
+
+## 🧠 Application Features
+
+### 👤 User Authentication
+- User registration and login
+- Secure password handling
+- JWT-based authentication
+- Protected routes for authorized users only
