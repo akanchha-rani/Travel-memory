@@ -21,3 +21,14 @@ This project demonstrates real-world **full-stack development**, including authe
 - Secure password handling
 - JWT-based authentication
 - Protected routes for authorized users only
+
+### 🧳 Travel Memories
+- Add new travel memories with:
+  - Title
+  - Description
+  - Location
+  - Images
+  - Date of travel
+- Edit existing memories
+- Delete memories
+- View all saved memories in a clean UI
