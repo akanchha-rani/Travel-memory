@@ -52,3 +52,7 @@ This project demonstrates real-world **full-stack development**, including authe
 - **Node.js**
 - **Express.js**
 - RESTful APIs
+
+### Database
+- **MongoDB**
+- Mongoose ODM
