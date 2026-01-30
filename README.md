@@ -36,3 +36,7 @@ This project demonstrates real-world **full-stack development**, including authe
 ### 🖼️ Image Handling
 - Upload and display travel images
 - Associate images with specific memories
+
+### 📱 Responsive UI
+- Works smoothly across desktop, tablet, and mobile devices
+- Clean and minimal design for better user experience
