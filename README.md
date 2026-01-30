@@ -40,3 +40,10 @@ This project demonstrates real-world **full-stack development**, including authe
 ### 📱 Responsive UI
 - Works smoothly across desktop, tablet, and mobile devices
 - Clean and minimal design for better user experience
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **React.js**
+- CSS
+- Axios (for API calls)
