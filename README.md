@@ -9,59 +9,91 @@ This project demonstrates real-world **full-stack development**, including authe
 ## ✨ Key Highlights
 
 - 📸 Create beautiful travel memories with images
+  
 - 🗺️ Store travel location details
+
 - 🔐 Secure user authentication using JWT
+
 - 📝 Full CRUD functionality for travel memories
+
 - 📱 Responsive and user-friendly UI
+
 - 🌐 REST API-based backend architecture
 
 
 ## 🧠 Application Features
 
 ### 👤 User Authentication
+
 - User registration and login
+
 - Secure password handling
+
 - JWT-based authentication
+
 - Protected routes for authorized users only
 
 ### 🧳 Travel Memories
+
 - Add new travel memories with:
+
   - Title
+
   - Description
+
   - Location
+
   - Images
+
   - Date of travel
+
 - Edit existing memories
+
 - Delete memories
+
 - View all saved memories in a clean UI
 
 ### 🖼️ Image Handling
+
 - Upload and display travel images
+
 - Associate images with specific memories
 
 ### 📱 Responsive UI
+
 - Works smoothly across desktop, tablet, and mobile devices
+
 - Clean and minimal design for better user experience
 
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - **React.js**
+
 - CSS
+
 - Axios (for API calls)
 
 ### Backend
+
 - **Node.js**
+
 - **Express.js**
+
 - RESTful APIs
 
 ### Database
+
 - **MongoDB**
+
 - Mongoose ODM
 
 ### Authentication & Security
+
 - JSON Web Tokens (JWT)
+
 - Environment variables for sensitive data
 
 
